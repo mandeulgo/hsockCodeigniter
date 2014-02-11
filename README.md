@@ -1,0 +1,4 @@
+hsockCodeigniter
+================
+
+handlersocket codeigniter library
